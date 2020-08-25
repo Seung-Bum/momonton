@@ -158,8 +158,8 @@ button {
   font-size: 32px;
   top: 0;
   padding-left: 40px;
-  padding-bottom: 180px;
-  padding-right: 100px;
+  padding-bottom: 300px;
+  padding-right: 300px;
 }
 
 @media screen and (min-width: 645px) {
